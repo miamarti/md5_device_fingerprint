@@ -2,7 +2,7 @@
 
 ## Bower install de dependency
 ```
-$ bower install md5_device_fingerprint --save
+$ bower install md5-device-fingerprint --save
 ```
 
 Credits:
