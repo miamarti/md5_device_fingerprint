@@ -1,0 +1,22 @@
+{
+  "name": "md5_device_fingerprint",
+  "description": "",
+  "version": "1.0.0",
+  "keywords": [
+    "js",
+    "front-end",
+    "web"
+  ],
+  "homepage": "https://gist.github.com/croustibat/9a1d7ec4c1d2c07eeaa6",
+  "main": "dist/md5_device_fingerprint.js",
+  "ignore": [
+    "/.*",
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md"
+  ],
+  "dependencies": {
+  }
+}
